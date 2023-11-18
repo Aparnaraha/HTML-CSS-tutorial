@@ -1,0 +1,31 @@
+@media (max-width: 1200px) {
+  body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgb(248, 248, 248);
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+@media (min-width: 1200.1px) {
+  body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 274px;
+    padding-right: 24px;
+    background-color: rgb(248, 248, 248);
+  }
+  
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
